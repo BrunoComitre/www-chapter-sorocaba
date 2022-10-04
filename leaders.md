@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Felipe Novais](mailto:felipe.novais@owasp.org)
+* [Bruno Fritoli Carrazza](mailto:bruno.carrazza@owasp.org)
