@@ -36,5 +36,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Próximo Encontro/Evento <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 Por enquanto não temos encontros planejados
-{% include chapter_events.html group=page.meetup-group %}
 
+<!--
+{% include chapter_events.html group=page.meetup-group %}
+ -->
