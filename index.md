@@ -35,16 +35,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Próximo Encontro/Evento <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-
 Por enquanto não temos encontros planejados
 {% include chapter_events.html group=page.meetup-group %}
-```
-{info.md}
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-{leaders.md}
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-<!--
-{info.md}
-{leaders.md}
-<!-- You should delete this comment
-Standard Chapter Page Template
+
