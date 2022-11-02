@@ -1,9 +1,11 @@
 ---
+
 layout: col-sidebar
 title: OWASP Sorocaba
 tags: Brasil
 region: South America
 meetup-group:
+
 ---
 ## Saudações!
 A OWASP Sorocaba é um dos mais de 15 capítulos brasileiros entre os mais de 270 Capítulos ativos em todo o mundo. Nosso objetivo é disseminar a missão da OWASP, trazendo a tona questões sobre segurança da informação para todos possam estar cientes dos verdadeiros perigos da má implementação de sistemas Web.
