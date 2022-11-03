@@ -16,8 +16,8 @@ Serão realizados encontros para que as pessoas possam compartilhar conhecimento
 </center>
 <br>
 ## Como fazer parte da comunidade?
-Como projeto é open-source e voltado para comunidade, o único requisito para entrar é querer participar e contribuir para o projeto. Para fazer parte mande um email para um dos líderes que iremos mandar mais informações.
-Quanto aos encontros que serão organizados, todos são livres e de graça, então a partipação estará disponível a todos, sejam nos encontros online ou nos presenciais.
+Como projeto é open-source e voltado para comunidade, o único requisito para entrar é querer participar e contribuir. Para fazer parte mande um email para um dos líderes, retornaremos com mais informações e detalhes.
+Quanto aos encontros que serão organizados, todos são livres e de graça, então a partipação estará disponível a todos.
 
 Próximo Encontro/Evento 
 ---------------------
