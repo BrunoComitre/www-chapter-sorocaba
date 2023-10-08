@@ -24,7 +24,7 @@ Todos são bem-vindos e incentivados a participar de nossos [Projetos](/projects
 
 ## Redes Sociais
 
-Nos siga em nossas redes sociais para se manter informado. Você nos encontra no Meetup, LinkedIn, Facebook e [Discord](https://discord.gg/NTh5KeJABu).
+Nos siga em nossas redes sociais para se manter informado. Você nos encontra no Meetup, LinkedIn, Instagram e [Discord](https://discord.gg/NTh5KeJABu).
 
 Próximo Encontro/Evento 
 ---------------------
