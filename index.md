@@ -15,9 +15,16 @@ Serão realizados encontros para que as pessoas possam compartilhar conhecimento
 <img src="assets/images/600px.png">
 </center>
 <br>
-## Como fazer parte da comunidade?
-Como projeto é open-source e voltado para comunidade, o único requisito para entrar é querer participar e contribuir. Para fazer parte mande um email para um dos líderes, retornaremos com mais informações e detalhes.
-Quanto aos encontros que serão organizados, todos são livres e de graça, então a partipação estará disponível a todos.
+## Declaração da OWASP sobre Participação
+A Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança de software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança de aplicativos.
+
+Os capítulos são liderados por líderes locais de acordo com a [Política de Capítulos](https://owasp.org/www-policy/). Contribuições financeiras devem ser feitas apenas online usando o botão de doação online autorizado. Para ser um PALESTRANTE em QUALQUER Capítulo da OWASP no mundo, basta revisar o [acordo de palestrante](/www-policy/speaker-agreement) e depois entrar em contato com o líder do capítulo local com detalhes sobre qual projeto da OWASP, pesquisa independente ou tópico relacionado à segurança de software você gostaria de apresentar.
+
+Todos são bem-vindos e incentivados a participar de nossos [Projetos](/projects), [Capítulos Locais](/chapters), [Eventos](/events), [Grupos Online](https://groups.google.com/a/owasp.com/) e [Canal de Comunidade no Slack](https://owasp.slack.com/). Incentivamos especialmente a diversidade em todas as nossas iniciativas. A OWASP é um lugar fantástico para aprender sobre segurança de aplicativos, fazer networking e até mesmo construir sua reputação como especialista. Também incentivamos você a se [tornar um membro](/membership) ou considerar uma [doação](/donate) para apoiar nosso trabalho contínuo.
+
+## Redes Sociais
+
+Nos siga em nossas redes sociais para se manter informado. Você nos encontra no Meetup, LinkedIn, Facebook e (Discord)[https://discord.gg/NTh5KeJABu].
 
 Próximo Encontro/Evento 
 ---------------------
