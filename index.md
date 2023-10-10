@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Sorocaba
 tags: Brasil
 region: South America
+country: Brazil
 meetup-group:
 
 ---
